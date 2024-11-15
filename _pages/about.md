@@ -15,7 +15,7 @@ Recent News
 [Jun, 2024] Graduated from Tsinghua University with honors: awarded Outstanding Graduate by Tsinghua University.
 
 [Apr, 2024] "Near field computational imaging with RIS generated virtual masks" was selected for the **Best Paper Award** in  IEEE Wireless Communications and Networking Conference (WCNC), Dubai, Apr. 2024.
-<br/><img src='/Best paper award of WCNC 2024.pdf' width= "500"> 
+<br/><img src='/_pages/Best paper award of WCNC 2024.pdf' width= "500"> 
 
 [Nov, 2023] Awarded Presidential Scholarship by Tsinghua University – 10 undergrads per year.
 
