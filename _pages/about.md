@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my homepage! I earned my Bachelor’s degree with honors from Tsien Excellence in Engineering Program, Tsinghua University in June 2024, under the guidance of Prof. <a href="https://scholar.google.com/citations?user=_VDYtKMAAAAJ&hl=en&oi=ao" style="text-decoration: none;">Feifei Gao</a>.
 
-I have been focusing on generating visible modalities from invisible wireless signals. My research interests lie broadly in generative AI and multimodal learning. 
+My research interests lie broadly in generative AI and multimodal learning. I have been focusing on generating visible modalities from invisible wireless signals. I am open to other topics as well. Feel free to shoot me an email if you’d like to chat!
 
 
 Recent News
