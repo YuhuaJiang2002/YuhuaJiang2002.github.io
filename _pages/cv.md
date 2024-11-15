@@ -2,6 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-redirect_to:
-  - /files/cv.pdf
+author_profile: true
 ---
+
+<embed src="/files/cv.pdf" width="100%" height="600px" type="application/pdf">
