@@ -21,8 +21,8 @@ My research interests lie broadly in generative AI and multimodal learning. I ha
 
 [Nov, 2023] Awarded **Presidential Scholarship** by Tsinghua University – 10 undergrads per year.
 
-# Publications
 <a id="Publications"></a>
+# Publications
  
 **For all publications, please refer to my [google scholar homepage](https://scholar.google.com/citations?user=gLiHCV0AAAAJ&hl=en).**
 
