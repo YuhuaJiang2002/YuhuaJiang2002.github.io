@@ -34,22 +34,22 @@ My research interests lie broadly in generative AI and multimodal learning. I ha
 
 ## JOURNAL PUBLICATIONS
 
-[1] **Yuhua Jiang**, Feifei Gao, and Shi Jin, “Electromagnetic property sensing: A new paradigm of integrated sensing and communication,”IEEE Transactions on Wireless Communications, Oct. 2024.
+[1] **Yuhua Jiang**, Feifei Gao, Shi Jin, and Tie Jun Cui,“Electromagnetic property sensing based on diffusion model in ISAC system."IEEE Transactions on Wireless Communications, Dec. 2024.
 
-[2] **Yuhua Jiang**, Feifei Gao, Yimin Liu, Shi Jin, and Tie Jun Cui, “Near-field computational imaging with RIS generated virtual masks,”IEEE Transactions on Antennas and Propagation, vol. 72, no. 5, pp. 4383–4398, Apr. 2024. 
+[2] **Yuhua Jiang**, Feifei Gao, and Shi Jin, “Electromagnetic property sensing: A new paradigm of integrated sensing and communication,”IEEE Transactions on Wireless Communications, Oct. 2024.
 
-[3] **Yuhua Jiang**, Feifei Gao, Mengnan Jian, Shun Zhang, and Wei Zhang, "Reconfigurable intelligent surface for near field communications: beamforming and sensing," IEEE Transactions on Wireless Communications, vol. 22, no. 5, pp. 3447-3459, May 2023.
+[3] **Yuhua Jiang**, Feifei Gao, Yimin Liu, Shi Jin, and Tie Jun Cui, “Near-field computational imaging with RIS generated virtual masks,”IEEE Transactions on Antennas and Propagation, vol. 72, no. 5, pp. 4383–4398, Apr. 2024. 
 
-[4] **Yuhua Jiang** and Feifei Gao,“Electromagnetic channel model for near field MIMO systems in the half space,”IEEE Communications Letters, vol. 27, no. 2, pp. 706–710, Feb. 2023.
+[4] **Yuhua Jiang**, Feifei Gao, Mengnan Jian, Shun Zhang, and Wei Zhang, "Reconfigurable intelligent surface for near field communications: beamforming and sensing," IEEE Transactions on Wireless Communications, vol. 22, no. 5, pp. 3447-3459, May 2023.
+
+[5] **Yuhua Jiang** and Feifei Gao,“Electromagnetic channel model for near field MIMO systems in the half space,”IEEE Communications Letters, vol. 27, no. 2, pp. 706–710, Feb. 2023.
 
 ## MANUSCRIPTS UNDER REVIEW
 
 [1] **Yuhua Jiang**, Feifei Gao, and Shi Jin,“Electromagnetic property sensing and channel 
 reconstruction based on diffusion Schrödinger bridge in ISAC." arXiv preprint arXiv:2409.11651. 
 
-[2] **Yuhua Jiang**, Feifei Gao, Shi Jin, and Tie Jun Cui,“Electromagnetic property sensing based on diffusion model in ISAC system." arXiv preprint arXiv:2407.03075. (major revision)
-
-[3] **Yuhua Jiang**, Feifei Gao, Shi Jin, and Tie Jun Cui, “Electromagnetic property sensing in ISAC with multiple base stations: Algorithm, pilot design, and performance analysis,”arXiv preprint arXiv:2405.06364. (major revision)
+[2] **Yuhua Jiang**, Feifei Gao, Shi Jin, and Tie Jun Cui, “Electromagnetic property sensing in ISAC with multiple base stations: Algorithm, pilot design, and performance analysis,”arXiv preprint arXiv:2405.06364. (major revision)
 
 
 
