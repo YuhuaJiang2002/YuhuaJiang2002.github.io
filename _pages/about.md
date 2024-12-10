@@ -26,12 +26,6 @@ My research interests lie broadly in generative AI and multimodal learning. I ha
  
 **For all publications, please refer to my [google scholar homepage](https://scholar.google.com/citations?user=gLiHCV0AAAAJ&hl=en).**
 
-## CONFERENCE PUBLICATIONS
-
-[1] **Yuhua Jiang**, Feifei Gao, Yimin Liu, Shi Jin, and Tie Jun Cui, “Near field computational imaging with RIS generated virtual masks", 2024 IEEE Wireless Communications and Networking Conference (WCNC), Dubai, Apr. 2024 (**Best Paper Award**)
-
-[2] **Yuhua Jiang**, Wanmai Yuan, and Feifei Gao, “RIS design for CRB optimization in source localization with electromagnetic interference”, 2023 IEEE/CIC International Conference on Communications in China (ICCC), Dalian, Aug. 2023 (oral presentation)
-
 ## JOURNAL PUBLICATIONS
 
 [1] **Yuhua Jiang**, Feifei Gao, Shi Jin, and Tie Jun Cui,“Electromagnetic property sensing based on diffusion model in ISAC system."IEEE Transactions on Wireless Communications, Dec. 2024.
@@ -43,6 +37,12 @@ My research interests lie broadly in generative AI and multimodal learning. I ha
 [4] **Yuhua Jiang**, Feifei Gao, Mengnan Jian, Shun Zhang, and Wei Zhang, "Reconfigurable intelligent surface for near field communications: beamforming and sensing," IEEE Transactions on Wireless Communications, vol. 22, no. 5, pp. 3447-3459, May 2023.
 
 [5] **Yuhua Jiang** and Feifei Gao,“Electromagnetic channel model for near field MIMO systems in the half space,”IEEE Communications Letters, vol. 27, no. 2, pp. 706–710, Feb. 2023.
+
+## CONFERENCE PUBLICATIONS
+
+[1] **Yuhua Jiang**, Feifei Gao, Yimin Liu, Shi Jin, and Tie Jun Cui, “Near field computational imaging with RIS generated virtual masks", 2024 IEEE Wireless Communications and Networking Conference (WCNC), Dubai, Apr. 2024 (**Best Paper Award**)
+
+[2] **Yuhua Jiang**, Wanmai Yuan, and Feifei Gao, “RIS design for CRB optimization in source localization with electromagnetic interference”, 2023 IEEE/CIC International Conference on Communications in China (ICCC), Dalian, Aug. 2023 (oral presentation)
 
 ## MANUSCRIPTS UNDER REVIEW
 
