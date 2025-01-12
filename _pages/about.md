@@ -19,7 +19,7 @@ My research interests lie broadly in generative AI and multimodal learning. I ha
 [Apr, 2024] Our paper, "Near field computational imaging with RIS generated virtual masks", was selected for the **Best Paper Award** in IEEE Wireless Communications and Networking Conference (WCNC), Dubai, Apr. 2024.
 <br/><img src='/images/best_paper.jpg' width= "500"> 
 
-[Nov, 2023] Awarded **Presidential Scholarship** by Tsinghua University – **10** undergraduates at Tsinghua University per year.
+[Nov, 2023] Awarded **Presidential Scholarship** by Tsinghua University (The highest honor for undergraduates of Tsinghua University, awarded to **10** undergraduates annually).
 
 <a id="Publications"></a>
 # Publications
